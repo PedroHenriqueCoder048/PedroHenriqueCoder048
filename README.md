@@ -14,7 +14,7 @@
           
 <img  align='center' whidt='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
           
-<img  align='center' whidt='0' height='40'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img  align='center' whidt='40' height='40'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
           
 
 <div/>
