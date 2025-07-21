@@ -12,7 +12,7 @@
 
 ###
 
-<div align="left" style="display:flex">
+<div align="left" style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="30" alt="django logo" style="filter: invert(1) brightness(2) contrast(2);" />
