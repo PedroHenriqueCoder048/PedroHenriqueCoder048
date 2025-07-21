@@ -8,8 +8,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroHenriqueCoder048&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQF5Tn_SgAiw6w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1694275116716?e=1755734400&v=beta&t=JGZadBBRiGvsswDK95nwlIEKz2409ow_v-D5YicnDvo" />
-
 </div>
 
 <h3>## Tech Stack</h3>
