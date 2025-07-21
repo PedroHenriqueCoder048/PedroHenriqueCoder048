@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
+  
+<div >
 
 <img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQF5Tn_SgAiw6w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1694275116716?e=1755734400&v=beta&t=JGZadBBRiGvsswDK95nwlIEKz2409ow_v-D5YicnDvo" />
-  
-<div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCoder048&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
   
