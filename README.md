@@ -2,11 +2,10 @@
 
 ###
 
-<div style="display:flex;  flex-direction:row; aling-items: centre;">
   <h3>## Information Systems UFPA  3/8</h3>
-  <img width="70" height="100" src="https://img.icons8.com/plasticine/100/computer.png" alt="computer"/>
-</div>
-
+  <p><img width="70" height="100" src="https://img.icons8.com/plasticine/100/computer.png" alt="computer"/>
+</p>
+  
 <div >
   
   <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCoder048&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
