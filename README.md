@@ -11,9 +11,7 @@
 </div>
 
 <hr>
-<div class="w3-border">
-  <div class="" style="height:24px;width:37.5%"></div>
-</div>
+
 <h3>## Tech Stack</h3>
 
 ###
