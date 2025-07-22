@@ -4,11 +4,10 @@
 
 <h3>## Information Systems UFPA</h3>
 
-<ul>
-  <li></li>
-    <li></li>
-      <li></li>
-
+<ul class="d-flex flex-row">
+<li></li><li></li><li></li>
+<li></li>
+<li></li>
 
 </ul>
 
