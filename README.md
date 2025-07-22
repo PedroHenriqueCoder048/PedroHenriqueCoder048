@@ -2,7 +2,10 @@
 
 ###
 
-<h3>## Information Systems UFPA  3/8</h3>
+<div>
+  <h3>## Information Systems UFPA  3/8</h3>
+  <img width="100" height="100" src="https://img.icons8.com/plasticine/100/computer.png" alt="computer"/>
+</div>
 
 <div >
   
@@ -14,8 +17,7 @@
 
 <hr>
 
-<h3>## Tech Stack <img width="100" height="100" src="https://img.icons8.com/plasticine/100/computer.png" alt="computer"/>
-</h3>
+<h3>## Tech Stack</h3>
 
 ###
 
