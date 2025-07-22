@@ -2,9 +2,10 @@
 
 ###
 
-<div class="" style="width:100%; backgrounndcolor: #ddd  ">
-  <div class="" style="height:24px;width:37.5%"></div>
+<div style="width: 100%; background-color: #ddd; border-radius: 4px;">
+  <div style="width: 37.5%; height: 24px; background-color: #4CAF50; border-radius: 4px;"></div>
 </div>
+
   
 <div >
   
