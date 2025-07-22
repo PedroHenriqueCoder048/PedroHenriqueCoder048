@@ -2,11 +2,8 @@
 
 ###
 
-<div style="width: 100%; background-color: #ddd; border-radius: 4px;">
-  <div style="width: 37.5%; height: 24px; background-color: #4CAF50; border-radius: 4px;"></div>
-</div>
+<h3>## Tech Stack</h3>
 
-  
 <div >
   
   <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCoder048&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
