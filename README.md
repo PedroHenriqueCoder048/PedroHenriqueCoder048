@@ -2,7 +2,7 @@
 
 ###
 
-<div class="">
+<div class="" style="width:100%; backgrounndcolor: #ddd  ">
   <div class="" style="height:24px;width:37.5%"></div>
 </div>
   
