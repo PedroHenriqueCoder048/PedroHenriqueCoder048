@@ -2,9 +2,7 @@
 
 ###
 
-<h3>## Information Systems UFPA</h3>
-
-<div class="cicle"  style="width: 100px; height: 100px; background-color: red; border-radius: 50%;"></div>
+<h3>## Information Systems UFPA  3/8</h3>
 
 <div >
   
