@@ -2,9 +2,13 @@
 
 ###
 
-  <h3>## Information Systems UFPA  3/8</h3>
-  <p><img width="70" height="100" src="https://img.icons8.com/plasticine/100/computer.png" alt="computer"/>
-</p>
+<table>
+  <tr>
+    <td><h3>Information Systems UFPA 3/8</h3></td>
+    <td><img src="https://img.icons8.com/plasticine/100/computer.png" alt="computer" width="70" height="100"/></td>
+  </tr>
+</table>
+
   
 <div >
   
