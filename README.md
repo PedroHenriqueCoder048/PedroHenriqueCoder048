@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋! My name is Pedro Henrique and I'm a backend developer, from Brazil</h2>
 
-###
-
 <div class="w3-border">
   <div class="" style="height:24px;width:37.5%"></div>
 </div>
+
+###
   
 <div >
   
