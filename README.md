@@ -14,7 +14,8 @@
 
 <hr>
 
-<h3>## Tech Stack</h3>
+<h3>## Tech Stack <img width="100" height="100" src="https://img.icons8.com/plasticine/100/computer.png" alt="computer"/>
+</h3>
 
 ###
 
@@ -31,8 +32,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="python logo"/>
   </div>
-
-<img width="100" height="100" src="https://img.icons8.com/plasticine/100/computer.png" alt="computer"/>
 
 
 ###
