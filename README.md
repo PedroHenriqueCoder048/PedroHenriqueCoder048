@@ -2,9 +2,9 @@
 
 ###
 
-<div>
+<div style="display:flex  flex-direction:row">
   <h3>## Information Systems UFPA  3/8</h3>
-  <img width="100" height="100" src="https://img.icons8.com/plasticine/100/computer.png" alt="computer"/>
+  <img width="45" height="100" src="https://img.icons8.com/plasticine/100/computer.png" alt="computer"/>
 </div>
 
 <div >
